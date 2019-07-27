@@ -3,9 +3,9 @@
 
 def key_for_min_value(name_hash)
    name_hash.each do |k, v|
-    if k == nil () v = {}
+    if k ==  () v == {}
       puts nil
-
+else
     end 
   end 
   return 
